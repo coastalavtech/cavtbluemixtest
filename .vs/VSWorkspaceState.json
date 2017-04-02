@@ -1,10 +1,11 @@
 {
   "ExpandedNodes": [
-    "\\Backup",
+    "",
     "\\Backup\\src",
     "\\Backup\\src\\WebApplication",
     "\\src",
     "\\src\\WebApplication"
   ],
+  "SelectedNode": "\\src\\WebApplication\\WebApplication.csproj",
   "PreviewInSolutionExplorer": false
 }
